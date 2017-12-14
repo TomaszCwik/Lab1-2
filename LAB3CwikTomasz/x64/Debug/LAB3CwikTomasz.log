@@ -1,5 +1,2 @@
 ﻿  punkt.cpp
-h:\studia\sem3\pk3\lab1\pk_lab1\ss (5)\lab3cwiktomasz\punkt.cpp(119): error C3867: „Punkt::pobierzX”: niestandardowa składnia; użyj znaku „&”, aby utworzyć wskaźnik elementu członkowskiego
-h:\studia\sem3\pk3\lab1\pk_lab1\ss (5)\lab3cwiktomasz\punkt.cpp(119): error C2446: "!=": brak konwersji z "float" na "float (__cdecl Punkt::* )(void)"
-  h:\studia\sem3\pk3\lab1\pk_lab1\ss (5)\lab3cwiktomasz\punkt.cpp(119): note: Brak kontekstu, w którym ta konwersja jest możliwa
-h:\studia\sem3\pk3\lab1\pk_lab1\ss (5)\lab3cwiktomasz\punkt.cpp(119): error C3867: „Punkt::pobierzY”: niestandardowa składnia; użyj znaku „&”, aby utworzyć wskaźnik elementu członkowskiego
+h:\studia\sem3\pk3\lab1\pk_lab1\ss (5)\lab1-2\lab3cwiktomasz\punkt.cpp(19): error C4716: "Punkt::operator+": musi zwracać wartość
