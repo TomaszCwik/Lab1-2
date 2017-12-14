@@ -1,0 +1,5 @@
+﻿  Punkt.cpp
+c:\users\student\source\repos\szymon-jarzab-gr06-repo\szymon-jarzab-gr04-repo\lab3cwiktomasz\lab3cwiktomasz\punkt.cpp(30): error C2065: 'cout': undeclared identifier
+c:\users\student\source\repos\szymon-jarzab-gr06-repo\szymon-jarzab-gr04-repo\lab3cwiktomasz\lab3cwiktomasz\punkt.cpp(31): error C2065: 'cout': undeclared identifier
+c:\users\student\source\repos\szymon-jarzab-gr06-repo\szymon-jarzab-gr04-repo\lab3cwiktomasz\lab3cwiktomasz\punkt.cpp(32): error C2065: 'cout': undeclared identifier
+c:\users\student\source\repos\szymon-jarzab-gr06-repo\szymon-jarzab-gr04-repo\lab3cwiktomasz\lab3cwiktomasz\punkt.cpp(32): error C2065: 'endl': undeclared identifier
